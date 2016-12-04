@@ -51,11 +51,11 @@ html {
 
 body {
     padding: 10%;
-    margin-bottom: 20%;
-    max-width: 600px;
+    margin-bottom: 10%;
+    max-width: 60%;
     margin: auto;
     color: #FFFFFF;
-    font-family:"Apercu Regular", Calibri, Roboto, serif;
+    font-family:"Apercu Regular", Calibri, Roboto, sans-serif;
     font-size-adjust:0.408;
     font-weight:100;
     font-style:normal;
