@@ -46,12 +46,12 @@ html {
 
 body {
     background: blue; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(red, blue); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(red, blue); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(red, blue); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(red, blue); /* Standard syntax (must be last) */
-    padding: 25%;
-    margin-bottom: 20%;
+    background: -webkit-linear-gradient(red, blue) fixed; /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(red, blue) fixed; /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(red, blue) fixed; /* For Firefox 3.6 to 15 */
+    background: linear-gradient(red, blue) fixed; /* Standard syntax (must be last) */
+    padding: 20%;
+    margin-bottom: 10%;
     max-width: 60%;
     margin: 0;
     color: #FFFFFF;
